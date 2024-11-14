@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fYJMwMGcmqs=",
+  "dgSpecHash": "/gagJY40kHM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharp\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
+  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharppublic\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jayde\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\jayde\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("buildyourstax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ed557a2a912d6bbb87923c1e47db656009a28d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31322da515a0ebd5489cf308a6dd60b9105d55c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("buildyourstax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("buildyourstax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

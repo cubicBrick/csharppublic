@@ -1,4 +1,7 @@
-﻿using System.Drawing.Drawing2D;
+﻿#define DEBUG 
+
+using System.Drawing.Drawing2D;
+using System.Runtime.CompilerServices;
 using System.Windows.Forms.DataVisualization.Charting;
 
 namespace buildyourstax
@@ -46,6 +49,18 @@ namespace buildyourstax
         public static Color BACKGROUND_COLOR = Color.FromArgb(53, 156, 70);
         public static Color BUTTON_BUY = Color.FromArgb(46, 125, 209);
         public static Color BUTTON_SELL = Color.FromArgb(209, 92, 46);
+    }
+    public class Debugger
+    {
+        public static void DebugMessage(string message,
+            [CallerLineNumber] int linenum = 0,
+            [CallerFilePath] string fpath = "",
+            [CallerMemberName] string mname = "")
+        {
+#if DEBUG
+            MessageBox.Show("In method [" + mname + "], file [" + fpath + "], line [" + linenum.ToString() + "]:\n" + message, applicationData.APPNAME, MessageBoxButtons.OK, MessageBoxIcon.Error);
+#endif
+        }
     }
     partial class MainForm : Form
     {

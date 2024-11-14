@@ -1701,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharp\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
+      "projectUniqueName": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharppublic\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
       "projectName": "buildyourstax",
-      "projectPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharp\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
+      "projectPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharppublic\\buildyourstax\\buildyourstax\\buildyourstax.csproj",
       "packagesPath": "C:\\Users\\jayde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharp\\buildyourstax\\buildyourstax\\obj\\",
+      "outputPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\csharppublic\\buildyourstax\\buildyourstax\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

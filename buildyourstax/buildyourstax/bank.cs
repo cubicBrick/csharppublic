@@ -2,7 +2,7 @@
 {
     partial class MainForm : Form
     {
-        private double bankYearlyInterest = 1.02;
+        private double bankYearlyInterest = 1.005;
         private double moneyinbank = 0;
         private GroupBox bank;
         private Label bankmoneylabel;
